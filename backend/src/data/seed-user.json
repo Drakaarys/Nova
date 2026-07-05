@@ -1,0 +1,16 @@
+{
+  "id": "user-demo-01",
+  "name": "Priya Sharma",
+  "email": "priya.sharma@example.com",
+  "city": "Bengaluru",
+  "household": {
+    "size": 4,
+    "dietary": [],
+    "budgetSensitivity": "med"
+  },
+  "defaultBudget": 800,
+  "learnedPrefs": {
+    "avoid": [],
+    "prefer": []
+  }
+}
