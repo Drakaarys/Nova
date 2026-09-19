@@ -128,6 +128,4 @@ cd ../frontend && npm run dev  # Runs frontend on port 5173
 *From need to done, in seconds — for millions.*
 
 ---
-<div align="center">
-  <i>Made with ❤️ for HackOn with Amazon — Season 6.0</i>
-</div>
+
